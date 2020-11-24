@@ -8,10 +8,13 @@
 В результате тестирования выявлены следующие дефекты:
 
 • https://github.com/Zharova/introJavaQa11-1/issues/2
+
 • https://github.com/Zharova/introJavaQa11-1/issues/1
 
 В процессе тестирования использовались следующие артефакты:
+
 • инструкция по установке OpenJDK11 (https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md)
+
 • руководство использования  KeyValidator (https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
 
 В качестве тестовых данных использовались следующие данные :
