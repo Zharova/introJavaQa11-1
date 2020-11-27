@@ -6,7 +6,7 @@
 
 На тестирование затрачено: 1 час
 
-В результате тестирования выявлен следующий дефект:
+В результате тестирования выявлены следующие дефекты:
 * https://github.com/Zharova/introJavaQa11-1/issues/3
 * https://github.com/Zharova/introJavaQa11-1/issues/2
 
